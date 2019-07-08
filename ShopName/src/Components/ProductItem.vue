@@ -26,7 +26,7 @@
 
 <style scoped>
     .card{
-        margin: 7px;
+        margin: 15px;
         text-align: center;
     }
 
