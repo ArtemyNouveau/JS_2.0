@@ -18,7 +18,7 @@
 `node server.js`
 
 ## Massage
-If you see this, it means that I still haven't fixed mess in dependencies and project structure. Sorry
+If you see this, it means that I haven't fixed mess in dependencies and project structure yet. Sorry.
 
 ---
 For detailed explanation on how things work, consult the docs for [vue-loader](http://vuejs.github.io/vue-loader).
