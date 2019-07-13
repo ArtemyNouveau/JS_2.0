@@ -31,4 +31,12 @@
         margin-top: 25px;
         margin-bottom: 0;
     }
+
+    label{
+        width: 100%;
+    }
+
+    input{
+        width: 100%;
+    }
 </style>
